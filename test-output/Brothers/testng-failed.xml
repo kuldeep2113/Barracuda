@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Brothers]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="firefox"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="suite.test.Pdp_BMG_Test">
+        <methods>
+          <include name="tearDown"/>
+          <include name="test1"/>
+          <include name="pdp_bmg_4"/>
+          <include name="setUpEnv"/>
+          <include name="setDriver"/>
+        </methods>
+      </class> <!-- suite.test.Pdp_BMG_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Brothers] -->

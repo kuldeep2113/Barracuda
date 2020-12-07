@@ -1,0 +1,426 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Dec 04 16:58:05 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>97 seconds (97185 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='suite.test.RegisteredCheckoutTest.co_1()'><b>co_1</b><br>Test class: suite.test.RegisteredCheckoutTest<br>Test method: Placed order using registered user with CC<br/>
+<a href="#Output-532297836" onClick='toggleBox("Output-532297836", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-532297836" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-532297836">
+Navigating to url: http://testcommerce.brother-usa.com/products/mfc7240<br><br/>
+Navigated to url: http://testcommerce.brother-usa.com/products/mfc7240<br><br/>
+Finding Element by locator: By.id: sitecoreId<br><br/>
+Finding Element by locator: By.id: sitecoreId<br><br/>
+Finding Element by locator: By.id: sitecoreId<br><br/>
+Finding Element by locator: By.id: sitecoreId<br><br/>
+Finding Element by locator: By.id: sitecoreId<br><br/>
+Finding Element by locator: By.id: sitecoreId<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br><br/>
+Finding Element by locator: By.id: sitecoreId<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br><br/>
+Finding Element by locator: By.id: sitecoreId<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br><br/>
+Finding Element by locator: By.cssSelector: .close > a<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Finding Element by locator: By.cssSelector: .close > a<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Finding Element by locator: By.cssSelector: .close > a<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br><br/>
+Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br><br/>
+Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br><br/>
+Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br><br/>
+Before Script: arguments[0].click();<br><br/>
+Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br><br/>
+After Script: arguments[0].click();<br><br/>
+Finding Element by locator: By.cssSelector: .checkout-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br><br/>
+Finding Element by locator: By.cssSelector: .checkout-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br><br/>
+Finding Element by locator: By.cssSelector: .checkout-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br><br/>
+Finding Element by locator: By.cssSelector: .checkout-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br><br/>
+Finding Element by locator: By.cssSelector: .checkout-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br><br/>
+Finding Element by locator: By.cssSelector: .checkout-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br><br/>
+Before Script: arguments[0].click();<br><br/>
+Finding Element by locator: By.cssSelector: .checkout-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br><br/>
+After Script: arguments[0].click();<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shopp-c-item-info > h4<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shopp-c-item-info > h4<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shopp-c-item-info > h4<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shopp-c-item-info > h4]<br><br/>
+Finding Element by locator: By.cssSelector: .btn-lg<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br><br/>
+Finding Element by locator: By.cssSelector: .btn-lg<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br><br/>
+Finding Element by locator: By.cssSelector: .btn-lg<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Finding Element by locator: By.id: LoginEmail<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br><br/>
+Finding Element by locator: By.id: LoginPassword<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Finding Element by locator: By.id: LoginPassword<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Finding Element by locator: By.id: LoginPassword<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Finding Element by locator: By.id: LoginPassword<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Finding Element by locator: By.id: LoginPassword<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Finding Element by locator: By.id: LoginPassword<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Finding Element by locator: By.id: LoginPassword<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br><br/>
+Finding Element by locator: By.id: loginbtn<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br><br/>
+Finding Element by locator: By.id: loginbtn<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br><br/>
+Finding Element by locator: By.id: loginbtn<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br><br/>
+Finding Element by locator: By.cssSelector: .close > a<br><br/>
+Finding Element by locator: By.cssSelector: .close > a<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Finding Element by locator: By.cssSelector: .close > a<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Finding Element by locator: By.cssSelector: .close > a<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br><br/>
+Finding Element by locator: By.id: orderGetShippingMethods<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br><br/>
+Before Script: arguments[0].scrollIntoView(true);<br><br/>
+Finding Element by locator: By.id: orderGetShippingMethods<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br><br/>
+After Script: arguments[0].scrollIntoView(true);<br><br/>
+Finding Element by locator: By.id: orderGetShippingMethods<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br><br/>
+Finding Element by locator: By.id: orderGetShippingMethods<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: #ToBillingButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br><br/>
+Finding Element by locator: By.cssSelector: #ToBillingButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br><br/>
+Finding Element by locator: By.cssSelector: #ToBillingButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br><br/>
+Finding Element by locator: By.cssSelector: .to-confirm-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br><br/>
+Finding Element by locator: By.cssSelector: .to-confirm-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br><br/>
+Finding Element by locator: By.cssSelector: .to-confirm-button<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.id: PlaceOrderButton<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: div.container>h3>strong#sapOrderId]<br><br/>
+Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br><br/>
+Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: div.container>h3>strong#sapOrderId]<br><br/>
+before getting text: 0005677906<br><br/>
+After getting text: 0005677906<br><br/>
+</div>
+</td>
+<td></td>
+<td>91</td>
+<td>suite.test.RegisteredCheckoutTest@53251a66</td></tr>
+</table><p>
+</body>
+</html>

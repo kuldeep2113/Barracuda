@@ -1,0 +1,2065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="13" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigating to url: http://testcommerce.brother-usa.com/products/mfc7240<br>]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to url: http://testcommerce.brother-usa.com/products/mfc7240<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Script: arguments[0].click();<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Script: arguments[0].click();<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Script: arguments[0].click();<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Script: arguments[0].click();<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shopp-c-item-info > h4<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shopp-c-item-info > h4<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shopp-c-item-info > h4<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shopp-c-item-info > h4]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: loginbtn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: loginbtn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: loginbtn<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Script: arguments[0].scrollIntoView(true);<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br>]]>
+    </line>
+    <line>
+      <![CDATA[After Script: arguments[0].scrollIntoView(true);<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .to-confirm-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .to-confirm-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: .to-confirm-button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: div.container>h3>strong#sapOrderId]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+    </line>
+    <line>
+      <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: div.container>h3>strong#sapOrderId]<br>]]>
+    </line>
+    <line>
+      <![CDATA[before getting text: 0005677906<br>]]>
+    </line>
+    <line>
+      <![CDATA[After getting text: 0005677906<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-12-04T11:28:05Z" name="Default suite" finished-at="2020-12-04T11:29:43Z" duration-ms="97185">
+    <groups>
+      <group name="closed">
+        <method signature="RegisteredCheckoutTest.co_1()[pri:0, instance:suite.test.RegisteredCheckoutTest@53251a66]" name="co_1" class="suite.test.RegisteredCheckoutTest"/>
+      </group> <!-- closed -->
+      <group name="checkout">
+        <method signature="RegisteredCheckoutTest.co_1()[pri:0, instance:suite.test.RegisteredCheckoutTest@53251a66]" name="co_1" class="suite.test.RegisteredCheckoutTest"/>
+      </group> <!-- checkout -->
+    </groups>
+    <test started-at="2020-12-04T11:28:05Z" name="Default test" finished-at="2020-12-04T11:29:43Z" duration-ms="97185">
+      <class name="suite.test.RegisteredCheckoutTest">
+        <test-method is-config="true" signature="setUpEnv(java.lang.String)[pri:0, instance:suite.test.RegisteredCheckoutTest@53251a66]" started-at="2020-12-04T11:28:05Z" name="setUpEnv" finished-at="2020-12-04T11:28:05Z" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpEnv -->
+        <test-method is-config="true" signature="setDriver(java.lang.String)[pri:0, instance:suite.test.RegisteredCheckoutTest@53251a66]" started-at="2020-12-04T11:28:05Z" name="setDriver" finished-at="2020-12-04T11:28:10Z" duration-ms="4101" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="co_1()[pri:0, instance:suite.test.RegisteredCheckoutTest@53251a66]" started-at="2020-12-04T11:28:10Z" name="co_1" description="Placed order using registered user with CC" finished-at="2020-12-04T11:29:41Z" duration-ms="91857" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigating to url: http://testcommerce.brother-usa.com/products/mfc7240<br>]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to url: http://testcommerce.brother-usa.com/products/mfc7240<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: sitecoreId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: sitecoreId]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Script: arguments[0].click();<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg:nth-child(8)<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg:nth-child(8)]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Script: arguments[0].click();<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Script: arguments[0].click();<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .checkout-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .checkout-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Script: arguments[0].click();<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shopp-c-item-info > h4<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shopp-c-item-info > h4<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shopp-c-item-info > h4<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shopp-c-item-info > h4]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .btn-lg<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .btn-lg]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginEmail<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginEmail]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: LoginPassword<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Changing value of: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: LoginPassword]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: loginbtn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: loginbtn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: loginbtn<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: loginbtn]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .close > a<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .close > a]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Script: arguments[0].scrollIntoView(true);<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br>]]>
+            </line>
+            <line>
+              <![CDATA[After Script: arguments[0].scrollIntoView(true);<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: orderGetShippingMethods<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: orderGetShippingMethods]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(2) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-shipping-method-block:nth-child(1) > .shipping-option > .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: #ToBillingButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: #ToBillingButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .janus-standard-shipping-listing:nth-child(1) > div:nth-child(1) .radio-label]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .to-confirm-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .to-confirm-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: .to-confirm-button<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: .to-confirm-button]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.id: PlaceOrderButton<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Before Clicking on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on element: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> id: PlaceOrderButton]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: div.container>h3>strong#sapOrderId]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Finding Element by locator: By.cssSelector: div.container>h3>strong#sapOrderId<br>]]>
+            </line>
+            <line>
+              <![CDATA[Element Found: [[ChromeDriver: chrome on WINDOWS (1003566cfc6a8bb42e3516a291671f29)] -> css selector: div.container>h3>strong#sapOrderId]<br>]]>
+            </line>
+            <line>
+              <![CDATA[before getting text: 0005677906<br>]]>
+            </line>
+            <line>
+              <![CDATA[After getting text: 0005677906<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- co_1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:suite.test.RegisteredCheckoutTest@53251a66]" started-at="2020-12-04T11:29:41Z" name="tearDown" finished-at="2020-12-04T11:29:43Z" duration-ms="1195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- suite.test.RegisteredCheckoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
